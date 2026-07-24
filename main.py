@@ -8,8 +8,8 @@ import time
 import os
 
 # --- Configuration ---
-START_URL = "https://www.roblox.com/login/forgot-password-or-username?identifier=username123" # change username123 to the target username
-IDENTIFIER_VALUE = "example@gmail.com" # change this to any email you want, changing it to the email related to target email is recommended
+START_URL = "https://www.roblox.com/login/forgot-password-or-username?identifier=Mr_devil028" # change username123 to the target username
+IDENTIFIER_VALUE = "mmustafaammar001@gmail.com@gmail.com" # change this to any email you want, changing it to the email related to target email is recommended
 CODE_FIELD_ID = "account-recovery-code-input"
 IDENTIFIER_FIELD_ID = "inputIdentifier"
 NEXT_BUTTON_XPATH = "//button[contains(text(), 'Next')]"
